@@ -44,13 +44,16 @@ Personal-Finance-Tracker/
 🛠 How to Run
 
 1. Clone the repository:
+
 git clone https://github.com/yourusername/personal-finance-tracker.git
 cd personal-finance-tracker
 
 2.Install dependencies:
+
 pip install pandas matplotlib
 
 3.Run the application:
+
 python main.py
 
 
